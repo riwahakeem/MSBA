@@ -6,3 +6,4 @@ statsmodels==0.12.2
 matplotlib==3.4.2
 seaborn==0.11.1
 chart-studio==1.1.0
+Markdown==3.3.4
